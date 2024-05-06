@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me zaid@iofactory.in
+- 📫 How to reach me khalid.zaid@fourjunctions.com
 
 <!---
 khalidzaidio/khalidzaidio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
